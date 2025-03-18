@@ -12,7 +12,7 @@ function App() {
 
   return (
     <>
-    <h1> Welcome to Lab Experiment - Section 7</h1>
+    <h1> FSAD Lab Experiment</h1>
     <table border={"2"} width={"100%"}>
       <tr>
         <td> S.NO </td>
